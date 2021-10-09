@@ -63,6 +63,7 @@ The Feynman Technique
 Learn without forgetting
 
 More →
+A picture of Richard Feynman, a world-renowned quantum physicist. The Feynman Technique is derived from his studying methods when he was a student at Princeton.
 
 ---
 
