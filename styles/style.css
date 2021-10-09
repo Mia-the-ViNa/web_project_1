@@ -120,6 +120,7 @@ span {
 .section-title {
   width: 60%;
   display: flex;
+  text-align: center;
   justify-content: center;
   line-height: 69px;
   font-size: 60px;
@@ -144,6 +145,7 @@ span {
 .table__cell {
   list-style: none;
   width: 250px;
+  margin-top: 60px;
 }
 .cell-margin {
   margin-top: 60px;
@@ -210,10 +212,46 @@ span {
   left: 0;
   bottom: 0;
 }
+.kaufman {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+}
+.section-title_theme_dark {
+  width: 60%;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  line-height: 69px;
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 90px;
+  color: white;
+}
+.section-subtitle_theme_dark {
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  margin-top: 20px;
+  color: white;
+}
+.table_theme_dark {
+  width: 1100px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 90px;
+}
 /* including elements with key-value modifiers */
 .table__cell_theme_dark {
   width: 200px;
   color: white;
   margin-right: 0;
   margin-top: 80px;
+  list-style: none;
 }
