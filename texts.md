@@ -1,8 +1,8 @@
-Title: 
+Title:
 
-Learning How to Learn 
+Learning How to Learn
 
-Subtitle: 
+Subtitle:
 
 The most effective, cutting-edge learning techniques that you can apply to your daily life
 
@@ -10,11 +10,11 @@ Learn more
 
 ---
 
-Description block: 
+Description block:
 
 The main problem with education
 
-Whether it's at school or university, the one thing no one ever teaches you is how to teach yourself. We often just end up drilling specific exercises and mindlessly memorizing information so that when exam time comes around, we pass the test. But once the test is over, that information has outlived its usefulness, and there's no guarantee that information will be retained. In the end, we're really just learning how to pass our tests. 
+Whether it's at school or university, the one thing no one ever teaches you is how to teach yourself. We often just end up drilling specific exercises and mindlessly memorizing information so that when exam time comes around, we pass the test. But once the test is over, that information has outlived its usefulness, and there's no guarantee that information will be retained. In the end, we're really just learning how to pass our tests.
 
 Here's the real question: does this approach of repetition and memorization help us truly understand the subject material? The academic consensus nowadays is that it doesn't. In fact, what's more important than any individual topic is knowing how to study, but for some reason, this point is often overlooked. So, what can we do to remedy this?
 
@@ -22,43 +22,43 @@ Well, there are various techniques and exercises that can be applied to the educ
 
 ---
 
-Digits block: 
+Digits block:
 
-Facts and figures 
+Facts and figures
 
 On learning and the brain
 
-86 billion 
+86 billion
 The number of neurons in the human brain
 
-73% 
-The percentage of adults in the US who consider themselves lifelong learners 
+73%
+The percentage of adults in the US who consider themselves lifelong learners
 Pew Research Center
 
-1,000 terabytes 
+1,000 terabytes
 The information storage capacity of a human
 
-500 trillion 
+500 trillion
 The number of nerve synapses responsible for learning in the average adult human
 
-420 million 
-The number of adults under 25 with insufficient education for finding employment 
+420 million
+The number of adults under 25 with insufficient education for finding employment
 World Bank, 2017
 
-26 years old 
+26 years old
 The age at which Albert Einstein published his groundbreaking paper on special relativity
 
-1885 
+1885
 Development of the forgetting curve
 
-1897 
+1897
 Publication of Ivan Pavlov's research on classical conditioning
 
 ---
 
 Feynman block:
 
-The Feynman Technique 
+The Feynman Technique
 
 Learn without forgetting
 
@@ -66,9 +66,9 @@ More →
 
 ---
 
-Kaufman block: 
+Kaufman block:
 
-Ten principles of rapid skill acquisition 
+Ten principles of rapid skill acquisition
 
 by Josh Kaufman
 
@@ -85,13 +85,13 @@ by Josh Kaufman
 
 ---
 
-Footer block: 
+Footer block:
 
-About Practicum by Yandex 
+About Practicum by Yandex
 
-Home page 
+Home page
 
-Mission 
+Mission
 
 Professions
 
