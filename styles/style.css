@@ -296,6 +296,7 @@
   font-weight: normal;
   list-style: none;
   align-items: center;
+  margin: 0px;
 }
 .footer__social-icons {
   display: flex;
