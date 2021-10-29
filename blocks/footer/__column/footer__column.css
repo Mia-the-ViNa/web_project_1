@@ -1,0 +1,5 @@
+.footer__column {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
