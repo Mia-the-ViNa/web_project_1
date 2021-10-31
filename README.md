@@ -12,4 +12,6 @@ The technologies that help creating the website:
 - W3C is the markup validation service which is very important. It checks the markup (html, xhtml, ...) of web documents.
 - We organized the files by following the BEM structure.
 
+## Plans for finalizing:
+
 My website still need some improvements. The website needs more fonts to attract readers. In the future I may add more videos and reading audio for those who don't like to read.
