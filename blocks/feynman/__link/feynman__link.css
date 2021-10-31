@@ -7,8 +7,8 @@
   right: 48px;
   color: #2f80ed;
   text-decoration: none;
-  transition: color 0.3s ease;
+  transition: 0.3s ease;
 }
 .feynman__link:hover {
-  color: blueviolet;
+  opacity: 0.3;
 }

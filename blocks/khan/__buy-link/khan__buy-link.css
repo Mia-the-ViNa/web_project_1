@@ -6,8 +6,8 @@
   color: #2f80ed;
   margin: 0px 0px 0px 48px;
   align-self: flex-start;
-  transition: color 0.3s ease;
+  transition: 0.3s ease;
 }
 .khan__buy-link:hover {
-  color: blueviolet;
+  opacity: 0.3;
 }
